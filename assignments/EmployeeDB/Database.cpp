@@ -1,6 +1,6 @@
 #include "Database.h"
 #include <stdexcept>
-
+/
 using namespace std;
 
 namespace Records {
